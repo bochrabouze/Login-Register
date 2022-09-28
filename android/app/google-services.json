@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535489468908",
+    "project_id": "medocfront",
+    "storage_bucket": "medocfront.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535489468908:android:25d6ee1faa15ed03eb48c9",
+        "android_client_info": {
+          "package_name": "com.example.medocfront"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535489468908-pdqsies5bkfnlg731o6nfoqg2undviie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaquGabwM7McHHs6ogq_O1CL53pxOrnr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535489468908-pdqsies5bkfnlg731o6nfoqg2undviie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
